@@ -1,5 +1,3 @@
-# Welcome
-About
 
 # 👋 Welcome to My GitHub!
 
